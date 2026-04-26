@@ -229,16 +229,10 @@ Dhyey Patel — Full Stack Lead
 Responsible for server setup, MongoDB Atlas integration, and JWT Authentication.
 
 Dhyan Chawda — Frontend Developer
-Responsible for building React pages, Responsive Design, and Axios API Setup.
+Responsible for building React pages, Responsive Design, Axios API Setup, components, page routing, and State Management.
 
-Om Davaria — Frontend Developer
-Responsible for components, page routing, and State Management.
-
-Dharm Patel — Backend Developer
-Responsible for REST API routes, Mongoose Models, and CRUD Operations.
-
-Dharm Mendpara — DevOps + Documentation
-Responsible for GitHub setup, README, .env.example file, and Demo Video.
+Dharm Patel — Backend Developer + DevOps + Documentation
+Responsible for REST API routes, Mongoose Models, CRUD Operations, GitHub setup, README, .env.example file, and Demo Video.
 
 ---
 
